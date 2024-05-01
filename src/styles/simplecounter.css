@@ -1,0 +1,18 @@
+.counter-display {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.counter-display div {
+    display: inline-block;
+    padding: 10px  20px;
+    background-color: black;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    width: 100px;
+}
+
+.bi-clock-fill {
+    padding-bottom: 7px;
+}
